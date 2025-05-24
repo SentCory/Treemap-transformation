@@ -74,4 +74,3 @@ A simple GUI tool to **create** and **delete** folder structures from tree diagr
 👉 适合批量生成目录、项目初始化或文件整理。
 
 ---
-*(Markdown formatted for **GitHub/README.md**)*
