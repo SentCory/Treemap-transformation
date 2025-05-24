@@ -1,0 +1,16 @@
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\bin\Debug\net8.0-windows\ProjectCreator.exe
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\bin\Debug\net8.0-windows\ProjectCreator.deps.json
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\bin\Debug\net8.0-windows\ProjectCreator.runtimeconfig.json
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\bin\Debug\net8.0-windows\ProjectCreator.dll
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\bin\Debug\net8.0-windows\ProjectCreator.pdb
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.Form1.resources
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.csproj.GenerateResource.cache
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.AssemblyInfoInputs.cache
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.AssemblyInfo.cs
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.csproj.CoreCompileInputs.cache
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.dll
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\refint\ProjectCreator.dll
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.pdb
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ProjectCreator.genruntimeconfig.cache
+C:\Users\ChainBox\Desktop\Project\ProjectCreator\obj\Debug\net8.0-windows\ref\ProjectCreator.dll
